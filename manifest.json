@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Thesaurus.com",
+  "description": "Simple thesaurus function",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "hello.png"
+  }
+}
